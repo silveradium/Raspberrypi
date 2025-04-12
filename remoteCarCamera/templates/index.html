@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Remote Car Control</title>
+</head>
+<body>
+  <h1>Remote Car</h1>
+  <p>Press and hold arrow keys to control</p>
+  <img src="/video">
+
+  <script>
+    document.addEventListener('keydown', function (event) {
+      fetch('/control', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: 'key=' + event.key + '&state=down'
+      });
+    });
+
+    document.addEventListener('keyup', function (event) {
+      fetch('/control', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: 'key=' + event.key + '&state=up'
+      });
+    });
+  </script>
+</body>
+</html>
