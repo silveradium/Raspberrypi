@@ -2,9 +2,12 @@
 
 This repository contains all my current Raspberry-Pi projects. They will be ubdated continously.
 
-![Screenshot](/Raspberry_Pi_Logo.svg.png)
+<p align="center">
+  <img src="Raspberry_Pi_Logo.svg.png" alt="Screenshot" width="200"/>
+</p>
 
-## Progrmas
+
+## Programs
 - LED Blink (blink_led)
 - Camera Server (camera_server)
 - Web controlled car (remoteCar)
