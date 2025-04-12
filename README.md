@@ -2,9 +2,6 @@
 
 This repository contains all my current Raspberry-Pi projects. They will be ubdated continously.
 
-<p align="center">
-  <img src="Raspberry_Pi_Logo.svg.png" alt="Screenshot" width="200"/>
-</p>
 
 
 ## Programs
@@ -15,6 +12,9 @@ This repository contains all my current Raspberry-Pi projects. They will be ubda
 - Servo controller (servo)
 - AI speech recognition app (mic)
 
+<p align="center">
+  <img src="Raspberry_Pi_Logo.svg.png" alt="Screenshot" width="150"/>
+</p>
 
 
 
