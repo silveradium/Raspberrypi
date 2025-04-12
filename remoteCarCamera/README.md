@@ -1,8 +1,8 @@
-# 🛻 Raspberry Pi Remote Car
+# 🛻 Raspberry Pi Remote Car with Cam Footage
 
 This is a Raspberry Pi-based remote-controlled car, controllable through a web interface with live video streaming and keyboard input.
 
-## 🚀 Features
+## Features
 - Live camera feed from PiCam
 - Motor control via keyboard (Arrow keys)
 - Flask web server
@@ -13,7 +13,7 @@ This is a Raspberry Pi-based remote-controlled car, controllable through a web i
 ![Screenshot](/remoteCarCamera/IMG_0689.PNG)
 
 ## 🎥 Video Demo
-[![Watch the video](https://drive.google.com/file/d/1s1xCsv4QrY7cBPhAIoiak7AM42_--g8b/view?usp=drive_link)]
+[[Watch the video](https://drive.google.com/file/d/1s1xCsv4QrY7cBPhAIoiak7AM42_--g8b/view?usp=drive_link)]
 
 ## 🧰 Tech Stack
 - Python + Flask
