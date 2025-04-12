@@ -1,4 +1,4 @@
-# 🛻 My Raspberry Pi Projects
+# 📚 My Raspberry Pi Projects
 
 This repository contains all my current Raspberry-Pi projects. They will be ubdated continously.
 
